@@ -6,4 +6,4 @@ class Controller{
     {
         echo "System ready";
     }
-}
+} 
