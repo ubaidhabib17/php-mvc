@@ -1,0 +1,1 @@
+<p>Halo nama saya <?= $data['nama'];?>, dan pekerjaan saya adalah <?= $data['pekerjaan']; ?></p>
